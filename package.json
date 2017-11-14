@@ -14,8 +14,18 @@
   "author": "Ber-Lin Lai <berlin.lai@gmail.com>",
   "license": "BSD",
   "dependencies": {
+    "cheerio": "^0.22.0",
     "collections": "^3.0.0",
-    "node-zip": "1.x"
+    "excel-export": "latest",
+//    "escape": "latest",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "node-libcurl": "^1.1.0",
+    "node-zip": "1.x",
+    "request": "^2.81.0",
+    "xlsx": "latest",
+    "xml2js": "^0.4.17"
   },
   "devDependencies": {
     "mocha": "",
